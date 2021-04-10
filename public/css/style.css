@@ -1,0 +1,12 @@
+svg{
+   width: 15em;
+}
+
+@media (min-width: 768px) {
+   .products{
+      margin-bottom: 50rem;
+   }
+   svg{
+      width: 30em;
+   }
+}
